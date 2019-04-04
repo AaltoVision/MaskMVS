@@ -9,7 +9,7 @@ For the paper, please see our [arXiv link](https://arxiv.org/abs/1902.02166)
 - **Python3**
 - **Numpy**
 - **Pytorch 0.3.0**
-- **CUDA 9**
+- **CUDA 9** (You can also run without CUDA, but then you need to remove all  ```.cuda() ``` in codes)
 - **Opencv**
 - **imageio** (with freeimage plugin): Run ``conda install -c conda-forge imageio`` or ``pip install imageio``. To install freeimage plugin, run the following Python script once:
     ```python 
