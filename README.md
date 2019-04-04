@@ -9,7 +9,7 @@ Codes for the paper:
 
 MaskMVS is a method for depth estimation for unstructured multi-view image-pose pairs. In the plane-sweep procedure, the depth planes are sampled by histogram matching that ensures covering the depth range of interest. Unlike other plane-sweep methods, we do not rely on a cost metric to explicitly build the cost volume, but instead infer a multiplane mask representation which regularizes the learning. Compared to many previous approaches, we show that our method is lightweight and generalizes well without requiring excessive training. See the paper for further details.
 
-# Requirements
+## Requirements
 Tested with:
 * Python3
 * Numpy
