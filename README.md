@@ -25,7 +25,7 @@ imageio.plugins.freeimage.download()
 ```
 
 ### Download pretrained models
-We provide our pretrained models of our MaskNet and DispNet to run the example code. Please download the models via [the link]() 
+We provide our pretrained models of our MaskNet and DispNet to run the example code. Please download the models via [the link](https://zenodo.org/record/2628420/files/pretrained_models.tar.gz?download=1) 
 
 ### Run the example
 1. Put both the model `masknet_model_best.pth.tar` and the model `dispnet_model_best.pth.tar` under the project folder.
