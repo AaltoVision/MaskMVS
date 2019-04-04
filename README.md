@@ -17,6 +17,10 @@ For the paper, please see our [arXiv link](https://arxiv.org/abs/1902.02166)
     imageio.plugins.freeimage.download()
     ```
 ### Download pretrained models
+We provide our pretrained models of our MaskNet and DispNet to run the example code.Please download the model via [the link]() 
+
 
 ### Run the example
-Just run the jupyter notebook file [example.ipynb](https://github.com/AaltoVision/MaskMVS/blob/master/example.ipynb)
+Put both the model ```masknet_model_best.pth.tar``` and the model ```dispnet_model_best.pth.tar``` under the project folder.
+
+Then just run the jupyter notebook file [example.ipynb](https://github.com/AaltoVision/MaskMVS/blob/master/example.ipynb)
