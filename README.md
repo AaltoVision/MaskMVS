@@ -17,7 +17,7 @@ For the paper, please see our [arXiv link](https://arxiv.org/abs/1902.02166)
     imageio.plugins.freeimage.download()
     ```
 ### Download pretrained models
-We provide our pretrained models of our MaskNet and DispNet to run the example code.Please download the model via [the link]() 
+We provide our pretrained models of our MaskNet and DispNet to run the example code.Please download the models via [the link]() 
 
 
 ### Run the example
