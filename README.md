@@ -18,4 +18,4 @@ For the paper, please see our [arXiv link](https://arxiv.org/abs/1902.02166)
 ### Download pretrained models
 
 ### Run the example
-Just run the jupyter notebook file example.ipynb
+Just run the jupyter notebook file [example.ipynb](https://github.com/AaltoVision/MaskMVS/blob/master/example.ipynb)
