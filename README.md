@@ -1,6 +1,4 @@
 # MaskMVS
-**Unstructured Multi-View Depth Estimation Using Mask-Based Multiplane Representation**
-
 Yuxin Hou · [Arno Solin](http://arno.solin.fi) · [Juho Kannala](https://users.aalto.fi/~kannalj1/)
 
 Codes for the paper:
